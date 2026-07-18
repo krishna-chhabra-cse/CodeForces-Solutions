@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 3 | 8 |
+| 4 | 9 |
 
 ---
 
@@ -14,12 +14,13 @@
 
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
-- [data structures](#data-structures) (1)
+- [data structures](#data-structures) (2)
+- [divide and conquer](#divide-and-conquer) (1)
 - [dp](#dp) (1)
-- [dsu](#dsu) (1)
+- [dsu](#dsu) (2)
 - [greedy](#greedy) (1)
 - [math](#math) (2)
-- [sortings](#sortings) (1)
+- [sortings](#sortings) (2)
 
 ---
 
@@ -40,6 +41,13 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
+| 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
+
+### divide and conquer
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
 
 ### dp
 
@@ -52,6 +60,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
+| 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
 
 ### greedy
 
@@ -70,6 +79,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ---
