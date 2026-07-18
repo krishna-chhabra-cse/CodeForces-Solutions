@@ -6,21 +6,22 @@
 
 | Total Problems | Topics |
 |---|---|
-| 4 | 9 |
+| 5 | 10 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [binary search](#binary-search) (1)
-- [brute force](#brute-force) (1)
-- [data structures](#data-structures) (2)
+- [brute force](#brute-force) (2)
+- [data structures](#data-structures) (3)
 - [divide and conquer](#divide-and-conquer) (1)
-- [dp](#dp) (1)
+- [dp](#dp) (2)
 - [dsu](#dsu) (2)
-- [greedy](#greedy) (1)
+- [greedy](#greedy) (2)
 - [math](#math) (2)
 - [sortings](#sortings) (2)
+- [strings](#strings) (1)
 
 ---
 
@@ -34,6 +35,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1506G | [Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1506/G%20-%20Maximize%20the%20Remaining%20String/solution.cpp) |
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 
 ### data structures
@@ -42,6 +44,7 @@
 |---|---------|------------|----------|
 | 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
 | 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
+| 1506G | [Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1506/G%20-%20Maximize%20the%20Remaining%20String/solution.cpp) |
 
 ### divide and conquer
 
@@ -54,6 +57,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
+| 1506G | [Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1506/G%20-%20Maximize%20the%20Remaining%20String/solution.cpp) |
 
 ### dsu
 
@@ -66,6 +70,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1506G | [Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1506/G%20-%20Maximize%20the%20Remaining%20String/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
 ### math
@@ -81,6 +86,12 @@
 |---|---------|------------|----------|
 | 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+
+### strings
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1506G | [Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1506/G%20-%20Maximize%20the%20Remaining%20String/solution.cpp) |
 
 ---
 
