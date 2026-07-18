@@ -6,24 +6,52 @@
 
 | Total Problems | Topics |
 |---|---|
-| 2 | 4 |
+| 3 | 8 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [binary search](#binary-search) (1)
 - [brute force](#brute-force) (1)
+- [data structures](#data-structures) (1)
+- [dp](#dp) (1)
+- [dsu](#dsu) (1)
 - [greedy](#greedy) (1)
 - [math](#math) (2)
 - [sortings](#sortings) (1)
 
 ---
 
+### binary search
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
+
 ### brute force
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
+
+### data structures
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
+
+### dp
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
+
+### dsu
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 547B | [Mike and Feet](https://codeforces.com/contest/547/problem/B) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/547/B%20-%20Mike%20and%20Feet/solution.cpp) |
 
 ### greedy
 
