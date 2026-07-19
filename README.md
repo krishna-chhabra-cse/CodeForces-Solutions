@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 7 | 11 |
+| 8 | 12 |
 
 ---
 
@@ -21,6 +21,7 @@
 - [dsu](#dsu) (2)
 - [greedy](#greedy) (2)
 - [math](#math) (2)
+- [number theory](#number-theory) (1)
 - [sortings](#sortings) (2)
 - [strings](#strings) (1)
 
@@ -87,6 +88,12 @@
 |---|---------|------------|----------|
 | 1692F | [3SUM](https://codeforces.com/contest/1692/problem/F) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1692/F%20-%203SUM/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
+
+### number theory
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 235A | [LCM Challenge](https://codeforces.com/contest/235/problem/A) | 1600 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/235/A%20-%20LCM%20Challenge/solution.cpp) |
 
 ### sortings
 
