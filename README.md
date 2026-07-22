@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 12 | 17 |
+| 13 | 17 |
 
 ---
 
@@ -22,12 +22,12 @@
 - [dsu](#dsu) (2)
 - [expression parsing](#expression-parsing) (1)
 - [graphs](#graphs) (1)
-- [greedy](#greedy) (4)
-- [implementation](#implementation) (1)
+- [greedy](#greedy) (5)
+- [implementation](#implementation) (2)
 - [math](#math) (4)
 - [number theory](#number-theory) (1)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (2)
+- [sortings](#sortings) (3)
 - [strings](#strings) (1)
 
 ---
@@ -106,6 +106,7 @@
 |---|---------|------------|----------|
 | 26B | [Regular Bracket Sequence](https://codeforces.com/contest/26/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/26/B%20-%20Regular%20Bracket%20Sequence/solution.cpp) |
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
 | 1506G | [Maximize the Remaining String](https://codeforces.com/contest/1506/problem/G) | 2000 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1506/G%20-%20Maximize%20the%20Remaining%20String/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
@@ -114,6 +115,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 520B | [Two Buttons](https://codeforces.com/contest/520/problem/B) | 1400 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/520/B%20-%20Two%20Buttons/solution.cpp) |
+| 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
 
 ### math
 
@@ -140,6 +142,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 545D | [Queue](https://codeforces.com/contest/545/problem/D) | 1300 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/545/D%20-%20Queue/solution.cpp) |
 | 817D | [Imbalanced Array](https://codeforces.com/contest/817/problem/D) | 1900 | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/817/D%20-%20Imbalanced%20Array/solution.cpp) |
 | 2244B | [Nikita and Books](https://codeforces.com/contest/2244/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2244/B%20-%20Nikita%20and%20Books/solution.cpp) |
 
