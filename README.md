@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 11 | 17 |
+| 12 | 17 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (2)
+- [Uncategorized](#uncategorized) (3)
 - [binary search](#binary-search) (1)
 - [brute force](#brute-force) (2)
 - [data structures](#data-structures) (4)
@@ -36,6 +36,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1180C | [Valeriy and Deque](https://codeforces.com/contest/1180/problem/C) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/1180/C%20-%20Valeriy%20and%20Deque/solution.cpp) |
 | 2247A | [Zero Sum](https://codeforces.com/contest/2247/problem/A) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2247/A%20-%20Zero%20Sum/solution.cpp) |
 | 2247B | [Yet Another Constructive](https://codeforces.com/contest/2247/problem/B) | Unrated | [C++23 (GCC 14-64, msys2)](https://github.com/krishna-chhabra-cse/CodeForces-Solutions/blob/HEAD/2247/B%20-%20Yet%20Another%20Constructive/solution.cpp) |
 
